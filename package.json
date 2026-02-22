@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-generator-ecommerce",
+  "version": "1.0.0",
+  "description": "Gerador de QR Codes para e-commerces via terminal",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "prompt": "^1.3.0"
+  },
+  "author": "Manus AI",
+  "license": "ISC"
+}
